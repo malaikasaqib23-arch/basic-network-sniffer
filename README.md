@@ -6,7 +6,7 @@ A Python-based network sniffer developed to capture and analyze live network tra
 
 This project captures live network packets from a network interface and displays important information about the traffic.
 
-The sniffer helps demonstrate how data flows through a network and provides practical understanding of common network protocols.
+The sniffer demonstrates how data flows through a network and provides practical experience with common network protocols.
 
 ## 🚀 Features
 
@@ -57,3 +57,7 @@ Install Scapy using:
 
 ```bash
 pip install scapy
+
+## 🖼️ Demo Screenshot
+
+![Network Sniffer Demo](network-sniffer-demo.png)
